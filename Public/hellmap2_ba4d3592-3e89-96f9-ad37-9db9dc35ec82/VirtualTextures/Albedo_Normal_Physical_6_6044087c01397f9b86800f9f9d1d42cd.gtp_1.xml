@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings source="($SOURCE)\Public\Albedo_Normal_Physical_6_6044087c01397f9b86800f9f9d1d42cd.gtp_1.dds">
+  <TextureLayerSettings>
+    <Scale>Full</Scale>
+    <QualityProfile>Default</QualityProfile>
+    <PreserveCoverage>false</PreserveCoverage>
+    <alphaCoverage>0.75</alphaCoverage>
+    <IsTiled>false</IsTiled>
+    <XPatches>0</XPatches>
+    <YPatches>0</YPatches>
+    <AllowNonPowerOfTwo>false</AllowNonPowerOfTwo>
+  </TextureLayerSettings>
+</Settings>

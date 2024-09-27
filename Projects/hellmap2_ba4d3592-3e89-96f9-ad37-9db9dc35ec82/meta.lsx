@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="ba4d3592-3e89-96f9-ad37-9db9dc35ec82"/>
+            <attribute id="Name" type="LSString" value="hellmap2"/>
+            <attribute id="UUID" type="LSString" value="cad4aefb-f512-ae79-6db7-48b41bfda57f"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

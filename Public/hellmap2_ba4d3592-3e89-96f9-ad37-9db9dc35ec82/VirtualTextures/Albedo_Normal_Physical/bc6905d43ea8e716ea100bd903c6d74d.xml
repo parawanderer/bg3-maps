@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\VirtualTextures\MiniMap_1" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\VirtualTextures\Albedo_Normal_Physical_6_6044087c01397f9b86800f9f9d1d42cd.gtp_1" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\VirtualTextures\Albedo_Normal_Physical_6_6044087c01397f9b86800f9f9d1d42cd.gtp_2" />
+  </Layers>
+</StackedTexture>
