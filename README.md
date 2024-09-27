@@ -1,4 +1,4 @@
-hellmap2 for Divinity: Original Sin 2 - Definitive Edition
+Avernus Project
 =======
 
 # Features:
@@ -8,5 +8,5 @@ hellmap2 for Divinity: Original Sin 2 - Definitive Edition
 * [Nexus]()
 
 # Attribution
-- [Divinity: Original Sin 2](http://store.steampowered.com/app/435150/Divinity_Original_Sin_2/), a game by [Larian Studios](http://larian.com/)
+- [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/), a game by [Larian Studios](http://larian.com/)
 
