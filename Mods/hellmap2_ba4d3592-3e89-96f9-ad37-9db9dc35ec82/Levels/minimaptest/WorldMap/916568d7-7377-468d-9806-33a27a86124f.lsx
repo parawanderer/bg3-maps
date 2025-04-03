@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="WorldMapMetaData">
+		<node id="WorldMapMetaData">
+			<attribute id="Width" type="uint32" value="4000" />
+			<attribute id="Height" type="uint32" value="4000" />
+			<attribute id="WorldWidth" type="float" value="200" />
+			<attribute id="WorldHeight" type="float" value="200" />
+			<attribute id="WorldX" type="float" value="-0.47698975" />
+			<attribute id="WorldZ" type="float" value="-3.3256912" />
+			<attribute id="RenderPatches" type="bool" value="False" />
+			<attribute id="TextureFilePath" type="LSString" value="FloorTrigger_000.dds" />
+			<attribute id="BuildingUUID" type="FixedString" value="" />
+			<attribute id="TriggerId" type="guid" value="916568d7-7377-468d-9806-33a27a86124f" />
+			<attribute id="Floor" type="int32" value="0" />
+		</node>
+	</region>
+</save>

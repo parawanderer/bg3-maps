@@ -4,9 +4,9 @@ SourceControlGenerator.json
 
 # Levels
 ######################
-Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Levels/*
-Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Globals/*
-Editor/Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Levels/*
+# Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Levels/*
+# Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Globals/*
+# Editor/Mods/hellmap2_ba4d3592-3e89-96f9-ad37-9db9dc35ec82/Levels/*
 
 # Story files        #
 ######################
@@ -41,12 +41,12 @@ story.debugInfo
 *.dae
 *.swf
 *.bullet
-*.dds
+# *.dds
 *.tga
-*.png
+# *.png
 *.ttf
 *.lsb
-*.lsf
+# *.lsf
 *.lsfx
 *.lsefx
 #*.lsx
@@ -63,8 +63,8 @@ personallog.txt
 
 # Binary Files       #
 ######################
-*.dat
-*.data
+# *.dat
+# *.data
 *.bik
 *.bnk
 *.bshd
@@ -73,7 +73,7 @@ personallog.txt
 *.iggy
 *.iggytex
 *.osi
-*.patch
+# *.patch
 *.tmpl
 
 # Dump files         #
