@@ -4,14 +4,14 @@ Baldurs Gate 3 Map Projects
 In September of 2024 I dabbled with the [Baldurs Gate 3](https://baldursgate3.game/) (which I can definitely recommend, it was great fun!) Mod Creation scene and made the first-ever community-created "maps" (environments) for this game.
 
 
-## Sea Castle
+## "Sea Castle"
 This is the first map I made in their modding toolkit, which was [the **first** ever community-created map](https://www.reddit.com/r/BaldursGate3/comments/1ffuhay/custom_map_created_using_unlocked_toolkit/).
 
 ▶️ Video links [here](https://youtu.be/_LOF3d7aLZ0?si=4RnMbY207fOfH1kM) and [here](https://youtu.be/O9uEtt3Ej8M?si=nYYsvqLBhGDUX4O1)
 
 [![Screenshot of the first little castle near the water that I made](./pictures/Screenshot_2024-09-13_140306.png)](https://www.youtube.com/watch?v=_LOF3d7aLZ0)
 
-## Avernus
+## "Avernus"
 
 Subsequently I also made another themed environment that the community of this game quite appreciated: [initial post](https://www.reddit.com/r/BaldursGate3/comments/1fi2l08/avernus_caelidinspired_map_using_the_unlocked/), [progress update](https://www.reddit.com/r/BaldursGate3/comments/1fnn5s8/avernus_caelid_custom_map_mod_progress/).
 
@@ -31,8 +31,9 @@ Subsequently I also made another themed environment that the community of this g
 - ["Baldur's Gate 3 Player Builds Custom Map" (**Game Rant**)](https://gamerant.com/baldurs-gate-3-player-custom-map/)
 - And [a bunch more](https://www.google.com/search?q=baldurs+gate+3+custom+maps&sca_esv=60f97cbc684a995f&biw=2047&bih=990&sxsrf=AHTn8zo4V1JYPexw_mX6zbFT606msKi9Tg%3A1743677577671&source=lnt&tbs=cdr%3A1%2Ccd_min%3A9%2F1%2F2024%2Ccd_max%3A9%2F30%2F2024&tbm=nws)...
 
-I did not end up going much further with this project due to personal priorities/job reasons and lack of time.
+## Reasoning for sharing
 
+I did not end up going much further with this project due to personal priorities/job reasons and lack of time.
 I'm sharing this publicly now for visibility.
 
 As of now it is more or less certain that I will not pick this up any further, and so that anybody who might really feel like it could potentially pick up the work on this.
