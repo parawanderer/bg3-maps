@@ -14,6 +14,8 @@ Subsequently I also made another themed environment that the community of this g
 
 [![Screenshot of the next "Avernus" environment I made](./pictures/Screenshot_2024-09-23_170312.png)](https://www.youtube.com/watch?v=W0hGxIy2xsc)
 
+(You can find more pictures than I've shared publicly prior to this in the folder [`pictures`](./pictures/))
+
 
 ### Apparently, this was interesting enough that a bunch of video game journalists wrote articles about it 😲:
 
