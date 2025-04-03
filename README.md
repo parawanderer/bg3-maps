@@ -40,7 +40,10 @@ As of now it is more or less certain that I will not pick this up any further, a
 
 ## License: MIT
 
+The license applies to anything I might be the copyright holder or intellectual property owner of.
 Feel free to take this wherever you'd like if you happen to stumble across this 👍
+
+Relevant licenses apply to Larian Studios' relevant property.
 
 ## Attribution & References
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/), a game by [Larian Studios](http://larian.com/)
